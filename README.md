@@ -121,7 +121,6 @@ function fancyAlert(arg) {
 **ความสามารถพิเศษ**
 
 **ประวัติการศึกษา**
-| Header 1 | Header 2 | Header 3 ||----------|:--------:|---------:||Col1      |   Col2   |   Col3   ||Col4      |   Col5   |   Col6   |
 
 **$$$$3**
 
